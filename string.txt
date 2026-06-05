@@ -89,7 +89,6 @@ xNot_RespondinGx
 <title>Wulandari :*</title>
 <td><center>drwxrwxrwx</center></td>
 drwxrwxr-x
--rw-rw-r--
 drwx---r-x
 By FierzaXploit
 <title>H3K | File Manager</title>
