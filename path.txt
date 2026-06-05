@@ -32,7 +32,6 @@ wp-content/plugins/hello-plus/classes/ehp-sarang.php
 wp-admin/css/colors/blue/
 wp-content/plugins/
 1.php
-wp-json/wp/v2/posts?cmd=system
 mah.php
 wp-content/themes/twentytwentyone/content-index.php
 radio.php
