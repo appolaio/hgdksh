@@ -7,7 +7,6 @@ edit-tags.php
 goods.php
 wp-admin/css/
 wp-content/
-filemanager.php
 wp-content/plugins/enhanced-text-widget/analyst/src/403.php
 wp-content/uploads/
 adminfuns.php
@@ -20,14 +19,12 @@ wp-content/admin.php
 wp-admin/js/
 wp-content/themes/news-portal/zdata.php
 wp-config-sample.php
-fm.php
 wp-includes/speculative8.php
 wp-admin/images/admin.php
 wp-content/languages/plugins/
 wp-content/uploads/admin.php
 404.php
 about.php
-file.php
 wp-content/themes/news-portal/sitebar.php
 wp-content/updates.php
 wp-content/themes/fukasawa/inc/classes/403.php
@@ -544,3 +541,6 @@ wp-content/languages/themes/block-supports/
 wp-content/themes/squarepress/images/
 wp-content11/themes/twentytwentyfour/patterns/lndex.php
 inputs.php
+filemanager.php
+fm.php
+file.php
